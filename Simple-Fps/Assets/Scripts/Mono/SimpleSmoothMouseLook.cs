@@ -1,6 +1,7 @@
 using UnityEngine;
 
 
+
 public class SimpleSmoothMouseLook : MonoBehaviour
 {
     Vector2 _mouseAbsolute;

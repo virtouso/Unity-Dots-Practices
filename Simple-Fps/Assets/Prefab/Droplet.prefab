@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6366262518429939033}
   - component: {fileID: 1759057939480734831}
   - component: {fileID: 5965465277283138733}
+  - component: {fileID: 2225533629722045819}
   m_Layer: 0
   m_Name: Droplet
   m_TagString: Untagged
@@ -277,3 +278,16 @@ MonoBehaviour:
         Tag07: 0
     m_SerializedVersion: 1
   m_SerializedVersion: 1
+--- !u!114 &2225533629722045819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5382835998788177889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc1d1ee13c4ece745966f0bc9c753ae0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Speed: 4
